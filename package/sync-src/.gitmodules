@@ -1,0 +1,4 @@
+[submodule "sync-src-submodule"]
+	path = sub/sync-src-submodule
+	url = https://github.com/handsfree-test/sync-src-submodule
+	branch = main
